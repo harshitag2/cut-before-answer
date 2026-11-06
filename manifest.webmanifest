@@ -1,0 +1,42 @@
+{
+  "name": "Cut Before Answer · Promo desk",
+  "short_name": "Promo desk",
+  "description": "Find 20–60 second promo cuts that stop before the answer.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#fffbf6",
+  "theme_color": "#e50b2b",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    },
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Ready to post",
+      "url": "./#queue"
+    },
+    {
+      "name": "To check",
+      "url": "./#review"
+    },
+    {
+      "name": "Scripts",
+      "url": "./#episodes"
+    }
+  ]
+}

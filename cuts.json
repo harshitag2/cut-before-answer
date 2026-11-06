@@ -1,0 +1,272 @@
+{
+ "name": "Cut Before Answer",
+ "version": "2.0",
+ "site": "https://harshitag2.github.io/cut-before-answer/",
+ "summary": {
+  "episode_count": 3,
+  "candidate_count": 7,
+  "reviewed_count": 7,
+  "posting_queue_count": 3,
+  "variant_count": 7
+ },
+ "posting_queue": [
+  {
+   "id": "E002_0003880_0006150",
+   "episode": 2,
+   "in": "00:38.80",
+   "out": "01:01.50",
+   "seconds": 22.7,
+   "opening_line": "Meera breaks free and charges toward the flames.",
+   "last_line": "The temple roof collapses in a wall of sparks behind them.",
+   "status": "keep",
+   "ending": "bombshell",
+   "strength": 95,
+   "best_for": "Reels & TikTok",
+   "leaves_wondering": "Who is the woman who was buried in Meera's place?",
+   "why": "Action, a shocking claim and a collapse in 23 seconds.",
+   "posting_rank": 1,
+   "test_versions": [
+    {
+     "kind": "hook",
+     "timings": "00:32.80-01:01.50",
+     "seconds": 28.7
+    },
+    {
+     "kind": "hook",
+     "timings": "00:30.40-01:01.50",
+     "seconds": 31.1
+    }
+   ],
+   "link": "https://harshitag2.github.io/cut-before-answer/#queue?cut=E002_0003880_0006150"
+  },
+  {
+   "id": "E001_0000000_0002400",
+   "episode": 1,
+   "in": "00:00.00",
+   "out": "00:24.00",
+   "seconds": 24.0,
+   "opening_line": "On your knees, maid. Lick it off the floor.",
+   "last_line": "A grey-haired lawyer steps in, holding a sealed envelope.",
+   "status": "keep",
+   "ending": "arrival",
+   "strength": 86,
+   "best_for": "Reels & TikTok",
+   "leaves_wondering": "What is in the sealed envelope, and why can't Meera leave?",
+   "why": "Classic humiliation open that turns on an unexpected arrival.",
+   "posting_rank": 2,
+   "test_versions": [
+    {
+     "kind": "ending",
+     "timings": "00:00.00-00:29.60",
+     "seconds": 29.6
+    }
+   ],
+   "link": "https://harshitag2.github.io/cut-before-answer/#queue?cut=E001_0000000_0002400"
+  },
+  {
+   "id": "E003_0002640_0005520",
+   "episode": 3,
+   "in": "00:26.40",
+   "out": "00:55.20",
+   "seconds": 28.8,
+   "opening_line": "My witness died in a fire last night.",
+   "last_line": "Arjun, tell them. Tell them what your father did.",
+   "status": "keep",
+   "ending": "reveal_tease",
+   "strength": 86,
+   "best_for": "Reels & TikTok",
+   "leaves_wondering": "What did Arjun's father do?",
+   "why": "Stops right before the season's biggest confession.",
+   "posting_rank": 3,
+   "test_versions": [
+    {
+     "kind": "hook",
+     "timings": "00:29.00-00:55.20",
+     "seconds": 26.2
+    },
+    {
+     "kind": "ending",
+     "timings": "00:26.40-00:51.40",
+     "seconds": 25.0
+    },
+    {
+     "kind": "ending",
+     "timings": "00:26.40-00:48.60",
+     "seconds": 22.2
+    },
+    {
+     "kind": "cold_open",
+     "timings": "00:39.60-00:41.40 + 00:26.40-00:55.20",
+     "seconds": 30.6
+    }
+   ],
+   "link": "https://harshitag2.github.io/cut-before-answer/#queue?cut=E003_0002640_0005520"
+  }
+ ],
+ "cuts": [
+  {
+   "id": "E002_0003880_0006150",
+   "episode": 2,
+   "in": "00:38.80",
+   "out": "01:01.50",
+   "seconds": 22.7,
+   "opening_line": "Meera breaks free and charges toward the flames.",
+   "last_line": "The temple roof collapses in a wall of sparks behind them.",
+   "status": "keep",
+   "ending": "bombshell",
+   "strength": 95,
+   "best_for": "Reels & TikTok",
+   "leaves_wondering": "Who is the woman who was buried in Meera's place?",
+   "why": "Action, a shocking claim and a collapse in 23 seconds.",
+   "posting_rank": 1,
+   "test_versions": [
+    {
+     "kind": "hook",
+     "timings": "00:32.80-01:01.50",
+     "seconds": 28.7
+    },
+    {
+     "kind": "hook",
+     "timings": "00:30.40-01:01.50",
+     "seconds": 31.1
+    }
+   ],
+   "link": "https://harshitag2.github.io/cut-before-answer/#queue?cut=E002_0003880_0006150"
+  },
+  {
+   "id": "E001_0000000_0002400",
+   "episode": 1,
+   "in": "00:00.00",
+   "out": "00:24.00",
+   "seconds": 24.0,
+   "opening_line": "On your knees, maid. Lick it off the floor.",
+   "last_line": "A grey-haired lawyer steps in, holding a sealed envelope.",
+   "status": "keep",
+   "ending": "arrival",
+   "strength": 86,
+   "best_for": "Reels & TikTok",
+   "leaves_wondering": "What is in the sealed envelope, and why can't Meera leave?",
+   "why": "Classic humiliation open that turns on an unexpected arrival.",
+   "posting_rank": 2,
+   "test_versions": [
+    {
+     "kind": "ending",
+     "timings": "00:00.00-00:29.60",
+     "seconds": 29.6
+    }
+   ],
+   "link": "https://harshitag2.github.io/cut-before-answer/#queue?cut=E001_0000000_0002400"
+  },
+  {
+   "id": "E003_0002640_0005520",
+   "episode": 3,
+   "in": "00:26.40",
+   "out": "00:55.20",
+   "seconds": 28.8,
+   "opening_line": "My witness died in a fire last night.",
+   "last_line": "Arjun, tell them. Tell them what your father did.",
+   "status": "keep",
+   "ending": "reveal_tease",
+   "strength": 86,
+   "best_for": "Reels & TikTok",
+   "leaves_wondering": "What did Arjun's father do?",
+   "why": "Stops right before the season's biggest confession.",
+   "posting_rank": 3,
+   "test_versions": [
+    {
+     "kind": "hook",
+     "timings": "00:29.00-00:55.20",
+     "seconds": 26.2
+    },
+    {
+     "kind": "ending",
+     "timings": "00:26.40-00:51.40",
+     "seconds": 25.0
+    },
+    {
+     "kind": "ending",
+     "timings": "00:26.40-00:48.60",
+     "seconds": 22.2
+    },
+    {
+     "kind": "cold_open",
+     "timings": "00:39.60-00:41.40 + 00:26.40-00:55.20",
+     "seconds": 30.6
+    }
+   ],
+   "link": "https://harshitag2.github.io/cut-before-answer/#queue?cut=E003_0002640_0005520"
+  },
+  {
+   "id": "E002_0000000_0005100",
+   "episode": 2,
+   "in": "00:00.00",
+   "out": "00:51.00",
+   "seconds": 51.0,
+   "opening_line": "Who did this? Who was in my room?",
+   "last_line": "Rathore? Who are you?",
+   "status": "keep",
+   "ending": "arrival",
+   "strength": 100,
+   "best_for": "Reels & TikTok",
+   "leaves_wondering": "Who is the stranger, and why does she call Meera a Rathore?",
+   "why": "Escalates from threat to fire to a stranger who knows her real name.",
+   "posting_rank": null,
+   "test_versions": [],
+   "link": "https://harshitag2.github.io/cut-before-answer/#all?cut=E002_0000000_0005100"
+  },
+  {
+   "id": "E003_0000000_0004140",
+   "episode": 3,
+   "in": "00:00.00",
+   "out": "00:41.40",
+   "seconds": 41.4,
+   "opening_line": "This court will decide who owns the Rathore estate. Today.",
+   "last_line": "You are supposed to be dead.",
+   "status": "keep",
+   "ending": "arrival",
+   "strength": 81,
+   "best_for": "YouTube Shorts",
+   "leaves_wondering": "How is the real heir alive, and who tried to kill her?",
+   "why": "Courtroom stakes, then a heir who should be dead walks in.",
+   "posting_rank": null,
+   "test_versions": [],
+   "link": "https://harshitag2.github.io/cut-before-answer/#all?cut=E003_0000000_0004140"
+  },
+  {
+   "id": "E001_0004600_0007360",
+   "episode": 1,
+   "in": "00:46.00",
+   "out": "01:13.60",
+   "seconds": 27.6,
+   "opening_line": "To Meera Sharma. The maid you just made kneel.",
+   "last_line": "Lock the doors. Nobody repeats this.",
+   "status": "needs_editor",
+   "ending": "arrival",
+   "strength": 80,
+   "best_for": "Reels & TikTok",
+   "leaves_wondering": "Who has been lying for twenty years, and what will the mother do to hide it?",
+   "why": "Strong double turn, but the first line needs the will's setup.",
+   "posting_rank": null,
+   "test_versions": [],
+   "link": "https://harshitag2.github.io/cut-before-answer/#all?cut=E001_0004600_0007360"
+  },
+  {
+   "id": "E003_0003960_0006240",
+   "episode": 3,
+   "in": "00:39.60",
+   "out": "01:02.40",
+   "seconds": 22.8,
+   "opening_line": "You are supposed to be dead.",
+   "last_line": "Meera… the fire was my idea.",
+   "status": "reject",
+   "ending": "bombshell",
+   "strength": 77,
+   "best_for": "Reels & TikTok",
+   "leaves_wondering": "None: the clip ends on the answer itself.",
+   "why": "Gives the season's biggest twist away.",
+   "posting_rank": null,
+   "test_versions": [],
+   "link": "https://harshitag2.github.io/cut-before-answer/#all?cut=E003_0003960_0006240"
+  }
+ ]
+}
